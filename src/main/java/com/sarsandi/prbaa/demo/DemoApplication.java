@@ -16,6 +16,7 @@ public class DemoApplication {
    @PostConstruct
 	public void init(){
 		logger.info("Application started");
+                logger.info("Application second started");
 	}
 
 	public static void main(String[] args) {
