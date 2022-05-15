@@ -58,6 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-docker-demo</finalName>
 	</build>
 
 </project>
